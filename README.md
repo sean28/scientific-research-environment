@@ -1,4 +1,4 @@
-# scientific-research-environment
+# Automatically building scientific research environment
 <div style="text-align: justify"> For many novices who are just beginning in bioinformatics, it is a headache to explore the installation environment of different software. CONDA can create different virtual environments and install them into different virtual environments according to different software, which is not easy to conflicts due to the dependencies of different programs. It only needs to call different virtual CONDA environments to call different software. This method can use in linux and mac os.</div>
 <div style="text-align: justify"> <br> </div>
 Create a new virtual environment under the specified directory, and enter the command:
