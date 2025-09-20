@@ -31,9 +31,9 @@ anaconda show BioBuilds/r-ggplot2
 ## Install according to Anaconda show
 conda install --channel https://conda.anaconda.org/BioBuilds r-ggplot2
 
-# Openbabel (Note: Environment requiring Python 2.7)
-conda install -c openbabel openbabel
-
+# Openbabel 
+conda install -c openbabel openbabel (Note: Environment requiring Python 2.7)
+conda install -c conda-forge openbabel (Note: Attention: Requires an environment after Python 3.0）
 ```
 
 Use the command to view the currently owned virtual environment:
